@@ -6,7 +6,11 @@ A prototype developed to collect the real-time data of the different types of po
 <img width="956" alt="Screenshot 2023-12-17 at 4 30 53 PM" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/837d5a21-84a8-4b12-9640-19fb2338d78b">
 
 
-<img width="956" alt="Screenshot 2023-12-17 at 4 31 04 PM" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/f55a145b-eb5a-4bfb-b19b-ee5eb52846ec">
+<img width="956" alt="Screenshot 2023-12-17 at 4 33 26 PM" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/13495585-4958-434b-b91e-11c6e1f3c01b">
 
 
-<img width="956" alt="Screenshot 2023-12-17 at 4 31 14 PM" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/03c14678-6804-4689-88e6-edd462e78f8e">
+<img width="956" alt="Screenshot 2023-12-17 at 4 31 14 PM" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/ffa869e6-8167-4101-8316-84c60c59d035">
+
+<img width="986" alt="Air Pollution Monitoring System using IOT" src="https://github.com/Abhinavreddy20/abhinavreddyairpoluttionmonitoring-system/assets/143411869/72906b60-831c-47ce-8ac9-d20390c74d9a">
+
+
